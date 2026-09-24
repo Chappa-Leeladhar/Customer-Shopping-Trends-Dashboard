@@ -6,6 +6,12 @@ An end-to-end Excel data analysis project which involves data cleaning, standard
 <img width="757" height="407" alt="Screenshot_20260807_143127" src="https://github.com/user-attachments/assets/270c84f9-fd7f-422f-8721-d819adbfb1fd" />
 
 ---
+## Business Problem
+The business wants to understand which customer segments drive the most value (spend and 
+volume) and whether satisfaction varies by demographic — to guide where to focus retention 
+and marketing efforts.
+
+---
 ## Key Insights
 * **Quantity**: The data indicates that females are purchasing more in terms of quantity than men.
 * **Recommendation**: Test bundle deals or loyalty incentives aimed at female shoppers, since 
