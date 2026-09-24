@@ -8,13 +8,13 @@ An end-to-end Excel data analysis project which involves data cleaning, standard
 ---
 ## Key Insights
 * **Quantity**: The data indicates that females are purchasing more in terms of quantity than men.
-* ** Recommendation**: Test bundle deals or loyalty incentives aimed at female shoppers, since 
+* **Recommendation**: Test bundle deals or loyalty incentives aimed at female shoppers, since 
 they already buy in higher volume.
 * **Amount**: The data indicates that on average females tend to spend more than men on their purchases.
-* ** Recommendation**: Combined with the quantity trend, this makes women a higher lifetime-value segment — 
+* **Recommendation**: Combined with the quantity trend, this makes women a higher lifetime-value segment — 
 recommend prioritizing this group in retention campaigns.
 * **Average Rating**: The data indicates that there isn't vast difference in terms of the rating among different age demographics.
-* ** Recommendation**: This rules out age as a driver of satisfaction. If the business wants to improve ratings, 
+* **Recommendation**: This rules out age as a driver of satisfaction. If the business wants to improve ratings, 
 the cause is more likely product- or delivery-related than demographic — worth investigating 
 those factors instead.
 
